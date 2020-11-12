@@ -1,0 +1,2 @@
+C:\Users\mario\Documents\Mis trabajos\EDA\ipud\Debug\ipud.exe
+C:\Users\mario\Documents\Mis trabajos\EDA\ipud\Debug\ipud.pdb
